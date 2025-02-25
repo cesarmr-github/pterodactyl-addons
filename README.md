@@ -26,7 +26,7 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
    - **TxAdmin Button**: `213/` Listo
    - **Minecraft Mods Installer**: `257/`
    - **TxAdmin Auto Setup**: `267/`
-   - **Artifacts Changer**: `271/`
+   - **Artifacts Changer**: `271/` Metido
    - **FiveM GameBuild Changer**: `273/`
    - **FiveM Resources Manager**: `278/`
    - **Minecraft Server Icon Changer**: `281/`
