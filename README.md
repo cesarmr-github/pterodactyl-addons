@@ -49,7 +49,7 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
    - **Minecraft Template Downloader**: `483/`
    - **Cloud Servers**: `585/`
    - **User Avatar Changer**: `591/`
-   - **Console Message Editor**: `594/`
+   - **Console Message Editor**: `594/` Metido
    - **FiveM Cache Remover**: `630/`
    - **Plugins Installer - License Extension**: `631/`
    - **Versions Changer - License Extension**: `632/`
