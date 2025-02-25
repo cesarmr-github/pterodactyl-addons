@@ -23,7 +23,7 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
 
    - **PhpMyAdmin Button**: `197/`
    - **Auto Update**: `204/`
-   - **TxAdmin Button**: `213/`
+   - **TxAdmin Button**: `213/` Listo
    - **Minecraft Mods Installer**: `257/`
    - **TxAdmin Auto Setup**: `267/`
    - **Artifacts Changer**: `271/`
