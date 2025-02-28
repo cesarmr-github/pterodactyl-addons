@@ -29,7 +29,7 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
    - **Artifacts Changer**: `271/` Metido
    - **FiveM GameBuild Changer**: `273/`
    - **FiveM Resources Manager**: `278/`
-   - **Minecraft Server Icon Changer**: `281/`
+   - **Minecraft Server Icon Changer**: `281/` Metido
    - **Server BanIp (Firewall)**: `284/`
    - **Server Importer Lite**: `288/`
    - **Minecraft Versions Changer**: `296/`
