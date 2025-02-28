@@ -43,7 +43,7 @@ These add-ons are compatible with **Pterodactyl 1.11.X**.
    - **Minecraft Addons Pack**: `388/`
    - **FiveM MySQL Connection String Injector**: `389/`
    - **Pacman During Installation or Suspension**: `438/`
-   - **Server Splitter**: `450/`
+   - **Server Splitter**: `450/` Metido
    - **Minecraft Jar Checker**: `456/`
    - **Server Importer Pro**: `462/`
    - **Minecraft Template Downloader**: `483/`
